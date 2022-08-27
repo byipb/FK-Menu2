@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FK-Menu</string>
+    <string name="lunch_menu">Lunch Menu</string>
+
+    <string name="lunch_item_1">1. Curry Chicken\n or Beef</string>
+    <string name="lunch_item_2">2. Sweet and Sour \nBoneless Pork</string>\
+    <string name="lunch_item_3">3. Mongolian Beef</string>
+    <string name="lunch_item_4">4. Beef or Chicken \nChop Suey</string>
+    <string name="lunch_item_5">5. Breaded Almond \nChicken</string>
+    <string name="lunch_item_6">6. Orange Chicken\n or Beef</string>
+    <string name="lunch_item_7">7. Spicy Thai Basil\n Chicken or Beef</string>
+    <string name="lunch_item_8">8. Dry Garlic Pork\n or Chicken</string>
+    <string name="lunch_item_9">9. Sweet and Sour\n Chicken Balls</string>
+    <string name="lunch_item_10">10. Deep Fried\n Prawns (4 pcs)</string>
+    <string name="lunch_item_11">11. Vegetable Chop\n Suey</string>
+    <string name="lunch_item_12">12. Beef or Chicken\n with Mushroom</string>
+</resources>
